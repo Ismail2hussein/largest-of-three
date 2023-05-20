@@ -4,7 +4,6 @@ const A = 10;
 const B = 20;
 const C = 30;
 
-// Use if statements to determine the largest number
 if (A > B && A> C) {
   console.log(`${A} is the largest number`);
 } else if (B > A && B > C) {
